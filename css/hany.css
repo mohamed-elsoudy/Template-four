@@ -109,6 +109,7 @@ a {
   .sidebar ul li a {
     transition: 0.3s;
     margin-bottom: 5px;
+    padding-bottom: 5px;
   }
   .sidebar ul li a:hover,
   .sidebar ul li a.active {
